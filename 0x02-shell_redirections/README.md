@@ -1,0 +1,1 @@
+This is redirections using various commands of shell
